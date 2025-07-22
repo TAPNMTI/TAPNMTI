@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**TAPNMTI/TAPNMTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 TAPNMTI - Tugas Akhir Prodi Teknologi Informasi PNM
 
-Here are some ideas to get you started:
+Selamat datang di akun resmi GitHub **TAPNMTI**, repository yang digunakan untuk mendokumentasikan dan mengarsipkan **Tugas Akhir mahasiswa Program Studi Teknologi Informasi - Politeknik Negeri Madiun (PNM)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositori ini dibuat untuk:
+- Menyimpan karya Tugas Akhir mahasiswa berdasarkan tahun kelulusan
+- Memberikan akses terbuka terhadap inovasi dan hasil penelitian mahasiswa
+- Menjadi dokumentasi digital yang terstruktur dan berkelanjutan
+---
+
+## 📁 Struktur Repositori
+
+Tiap tahun kelulusan memiliki repository tersendiri, misalnya:
+
+- [TI-2025](https://github.com/TAPNMTI/TI-2025) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2023, lulus tahun 2026
+- [TI-2024](https://github.com/TAPNMTI/TI-2024) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2022, lulus tahun 2025
+- dst...
+
+Setiap repository tersebut akan berisi folder per judul Tugas Akhir seperti contoh berikut:
+
+```
+TI-2025/
+├── Sistem Informasi Inventaris Kampus/
+│   └── source_code/
+├── Smart Internet of Things/
+│   └── ...
+```
+
+---
+
+## 🧑‍💻 Pengelola
+Repositori ini dikelola oleh:
+- Dosen Pembimbing dan Koordinator Tugas Akhir Prodi TI
+- Mahasiswa yang diberikan hak akses upload
+
+---
+
+## 📌 Catatan
+- File yang diunggah bersifat akademik dan telah melewati proses verifikasi oleh pembimbing
+- Dilarang mengunggah data sensitif atau informasi pribadi dalam kode/laporan
+---
+
+📫 Jika ada pertanyaan atau permintaan hak akses unggah, silakan hubungi koordinator TA melalui email resmi prodi.
+---
+
+> "Mendokumentasikan adalah bagian dari membangun masa depan."  
+> — TAPNMTI Team
