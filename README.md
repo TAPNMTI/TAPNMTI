@@ -13,8 +13,8 @@ Repositori ini dibuat untuk:
 
 Tiap tahun kelulusan memiliki repository tersendiri, misalnya:
 
-- [TI-2025](https://github.com/TAPNMTI/TI-2025) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2023, lulus tahun 2026
-- [TI-2024](https://github.com/TAPNMTI/TI-2024) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2022, lulus tahun 2025
+- [TI-2026](https://github.com/TAPNMTI/TI-2025) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2023, lulus tahun 2026
+- [TI-2025](https://github.com/TAPNMTI/TI-2024) – Kumpulan Tugas Akhir Mahasiswa TI Angkatan 2022, lulus tahun 2025
 - dst...
 
 Setiap repository tersebut akan berisi folder per judul Tugas Akhir seperti contoh berikut:
